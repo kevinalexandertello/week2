@@ -2,11 +2,11 @@
   "name": "week2",
   "version": "1.0.0",
   "description": "assignment2",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "start-server": "nodemon index.js"
+    "start": "node app.js",
+    "start-server": "nodemon app.js"
   },
   "repository": {
     "type": "git",
